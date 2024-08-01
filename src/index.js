@@ -19,7 +19,7 @@ const routes = {
   "ecr.iiep.cn": "https://public.ecr.aws",
 
   // staging
-  "docker-staging.libcuda.so": dockerHub,
+  "docker-staging.iiep.cn": dockerHub,
 };
 
 function routeByHosts(host) {
